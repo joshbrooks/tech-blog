@@ -1,30 +1,34 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 joshbrooks/tech-blog is built on the following main stack:
+
 - [Python](https://www.python.org) – Languages
 - [Django](https://www.djangoproject.com/) – Frameworks (Full Stack)
 - [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 joshbrooks/tech-blog is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/994/4aGjtNQv.png' alt='Django'/> [Django](https://www.djangoproject.com/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [joshbrooks/tech-blog](https://github.com/joshbrooks/tech-blog)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|7<br/>Tools used|11/09/23 <br/>Report generated|
+|7<br/>Tools used|01/04/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -98,9 +102,9 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[wagtail](https://pypi.org/wagtail)|v2.5|05/30/19|Joshua Brooks |BSD-3-Clause|[CVE-2021-32681](https://github.com/advisories/GHSA-xfrw-hxr5-ghqf) (Moderate)<br/>[CVE-2020-15118](https://github.com/advisories/GHSA-2473-9hgq-j7xw) (Moderate)<br/>[CVE-2021-29434](https://github.com/advisories/GHSA-wq5h-f9p5-q7fx) (Moderate)<br/>[CVE-2023-28836](https://github.com/advisories/GHSA-5286-f2rf-35c2) (Moderate)<br/>[CVE-2023-28837](https://github.com/advisories/GHSA-33pv-vcgh-jfg9) (Moderate)<br/>[CVE-2020-11001](https://github.com/advisories/GHSA-v2wc-pfq2-5cm6) (Moderate)<br/>[CVE-2020-11037](https://github.com/advisories/GHSA-jjjr-3jcw-f8v6) (Moderate)<br/>[CVE-2023-45809](https://github.com/advisories/GHSA-fc75-58r8-rm3h) (Low)|
+|[wagtail](https://pypi.org/project/wagtail)|v2.5|05/30/19|Joshua Brooks |BSD-3-Clause|[CVE-2021-32681](https://github.com/advisories/GHSA-xfrw-hxr5-ghqf) (Moderate)<br/>[CVE-2020-15118](https://github.com/advisories/GHSA-2473-9hgq-j7xw) (Moderate)<br/>[CVE-2021-29434](https://github.com/advisories/GHSA-wq5h-f9p5-q7fx) (Moderate)<br/>[CVE-2023-28836](https://github.com/advisories/GHSA-5286-f2rf-35c2) (Moderate)<br/>[CVE-2023-28837](https://github.com/advisories/GHSA-33pv-vcgh-jfg9) (Moderate)<br/>[CVE-2020-11001](https://github.com/advisories/GHSA-v2wc-pfq2-5cm6) (Moderate)<br/>[CVE-2020-11037](https://github.com/advisories/GHSA-jjjr-3jcw-f8v6) (Moderate)<br/>[CVE-2023-45809](https://github.com/advisories/GHSA-fc75-58r8-rm3h) (Low)|
 
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
