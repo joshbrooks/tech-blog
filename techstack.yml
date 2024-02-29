@@ -2,7 +2,7 @@ repo_name: joshbrooks/tech-blog
 report_id: cad5c36ed7e02784ac75234ccb20cc63
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T09:05:16+00:00'
+timestamp: '2024-02-29T18:24:28+00:00'
 requested_by: joshbrooks
 provider: github
 branch: master
@@ -96,6 +96,12 @@ tools:
     detected_date: Aug 22
     severity: moderate
     first_patched: 2.11.8
+  - name: Potential Observable Timing Discrepancy in Wagtail
+    cve_id: CVE-2020-11037
+    cve_url: https://github.com/advisories/GHSA-jjjr-3jcw-f8v6
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 2.7.2
   - name: Cross-Site Scripting in Wagtail
     cve_id: CVE-2020-15118
     cve_url: https://github.com/advisories/GHSA-2473-9hgq-j7xw
@@ -126,12 +132,6 @@ tools:
   - name: Possible XSS attack in Wagtail
     cve_id: CVE-2020-11001
     cve_url: https://github.com/advisories/GHSA-v2wc-pfq2-5cm6
-    detected_date: Aug 22
-    severity: moderate
-    first_patched: 2.7.2
-  - name: Potential Observable Timing Discrepancy in Wagtail
-    cve_id: CVE-2020-11037
-    cve_url: https://github.com/advisories/GHSA-jjjr-3jcw-f8v6
     detected_date: Aug 22
     severity: moderate
     first_patched: 2.7.2
