@@ -28,7 +28,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [joshbrooks/tech-blog](https://github.com/joshbrooks/tech-blog)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|7<br/>Tools used|01/05/24 <br/>Report generated|
+|7<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -102,7 +102,7 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[wagtail](https://pypi.org/project/wagtail)|v2.5|05/30/19|Joshua Brooks |BSD-3-Clause|[CVE-2021-32681](https://github.com/advisories/GHSA-xfrw-hxr5-ghqf) (Moderate)<br/>[CVE-2020-15118](https://github.com/advisories/GHSA-2473-9hgq-j7xw) (Moderate)<br/>[CVE-2021-29434](https://github.com/advisories/GHSA-wq5h-f9p5-q7fx) (Moderate)<br/>[CVE-2023-28836](https://github.com/advisories/GHSA-5286-f2rf-35c2) (Moderate)<br/>[CVE-2023-28837](https://github.com/advisories/GHSA-33pv-vcgh-jfg9) (Moderate)<br/>[CVE-2020-11001](https://github.com/advisories/GHSA-v2wc-pfq2-5cm6) (Moderate)<br/>[CVE-2020-11037](https://github.com/advisories/GHSA-jjjr-3jcw-f8v6) (Moderate)<br/>[CVE-2023-45809](https://github.com/advisories/GHSA-fc75-58r8-rm3h) (Low)|
+|[wagtail](https://pypi.org/project/wagtail)|v2.5|05/30/19|Joshua Brooks |BSD-3-Clause|[CVE-2021-32681](https://github.com/advisories/GHSA-xfrw-hxr5-ghqf) (Moderate)<br/>[CVE-2020-11037](https://github.com/advisories/GHSA-jjjr-3jcw-f8v6) (Moderate)<br/>[CVE-2020-15118](https://github.com/advisories/GHSA-2473-9hgq-j7xw) (Moderate)<br/>[CVE-2021-29434](https://github.com/advisories/GHSA-wq5h-f9p5-q7fx) (Moderate)<br/>[CVE-2023-28836](https://github.com/advisories/GHSA-5286-f2rf-35c2) (Moderate)<br/>[CVE-2023-28837](https://github.com/advisories/GHSA-33pv-vcgh-jfg9) (Moderate)<br/>[CVE-2020-11001](https://github.com/advisories/GHSA-v2wc-pfq2-5cm6) (Moderate)<br/>[CVE-2023-45809](https://github.com/advisories/GHSA-fc75-58r8-rm3h) (Low)|
 
 <br/>
 <div align='center'>
